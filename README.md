@@ -1,2 +1,3 @@
 # Python-4-Everbody
-This repository contains all my completed assignments and exercises from the *Python for Everybody* specialization by Dr. Charles Severance. These exercises demonstrate Python skills in data parsing, web scraping, databases, and object-oriented programming.  
+This repository contains all my completed assignments from the Python for Everybody specialisation by Dr. Charles Severance.
+The work showcases practical Python programming in data parsing, file handling, web scraping with BeautifulSoup, regular expressions, and database management using SQLite.
